@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavanlimbani
 - 👀 I’m interested in web development and AI
 - 🌱 I’m currently learning mern
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me kavanlimbani@gmail.com
 
 <!---
